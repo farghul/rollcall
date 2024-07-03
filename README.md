@@ -45,4 +45,4 @@ Outputs a file named *compendium.csv*. This file contains a complete list of all
 
 ## License
 
-Code is distributed under [The Unlicense](https://github.com/nausicaan/free/blob/main/LICENSE.md) and is part of the Public Domain.
+Code is distributed under [The Unlicense](https://github.com/farghul/rollcall/blob/main/LICENSE.md) and is part of the Public Domain.
