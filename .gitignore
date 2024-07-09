@@ -23,6 +23,15 @@ vendor/
 .DS_Store
 Thumbs.db
 .idea
+.vscode
+
+# Go workspace file
+go.work
+go.work.sum
+
+# env file
+.env
+.env.example
 
 # Individual files
 vars.go
