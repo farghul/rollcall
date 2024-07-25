@@ -1,3 +1,3 @@
-module github.com/nausicaan/rollcall
+module github.com/farghul/rollcall
 
 go 1.22

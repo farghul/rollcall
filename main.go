@@ -71,6 +71,6 @@ func about() {
 	fmt.Println(green, "   rollcall")
 	fmt.Println(yellow, "\nHelp:", reset)
 	fmt.Println("  For more information go to:")
-	fmt.Println(green, "   https://github.com/nausicaan/rollcall.git")
+	fmt.Println(green, "   https://github.com/farghul/rollcall.git")
 	fmt.Println(reset)
 }

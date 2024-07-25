@@ -39,7 +39,6 @@ func execute(variation, task string, args ...string) []byte {
 	osCmd := exec.Command(task, args...)
 	switch variation {
 	case "-e":
-		// exec.Command(task, args...).CombinedOutput()
 		osCmd.CombinedOutput()
 	case "-c":
 		both, _ := osCmd.CombinedOutput()
